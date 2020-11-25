@@ -15,7 +15,7 @@ Many plugins are used within this project. They include:
 - formidable [https://github.com/node-formidable/formidable](https://github.com/node-formidable/formidable)
 
 
-## All of hte above packages are used under an MIT license which can be found on their website, with the exception of Node.js and WebRTC, which have their licenses shown above. The MIT license is as follows:
+## All of the above packages are used under an MIT license which can be found on their website, with the exception of Node.js and WebRTC, which have their licenses shown above. The MIT license is as follows:
 
 'MIT License
 
